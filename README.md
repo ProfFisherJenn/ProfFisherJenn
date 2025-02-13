@@ -1,5 +1,11 @@
 ## Hi there 👋
+I'm ProfFisherJenn - Analytical Thinker and Creative Problem Solver
 
+I teach. I learn. I explore an expansive array of ideas fueled by curiosity.
+
+I'm an experienced Graphic Designer that has transitioned my skills for design, targeting communcications and motivating engagement into the teaching environment.
+
+I love Typography, and WILL judge you for your font choices or poor formatting!
 <!--
 **ProfFisherJenn/ProfFisherJenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
