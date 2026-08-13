@@ -1,0 +1,3 @@
+[2026-02-13 12:47:30] === Word → PowerPoint Converter (v2) started ===
+[2026-02-13 12:47:30] Script folder: C:\Users\jenni\Desktop\GRD_159_Presentations
+[2026-02-13 12:47:30] No template found. Place a .pptx or .potx next to this script in C:\Users\jenni\Desktop\GRD_159_Presentations.

@@ -1,0 +1,8 @@
+[2026-02-24 06:00:57] === Word → Canvas QTI Converter started ===
+[2026-02-24 06:00:57] Script folder: C:\Users\jenni\Desktop\GRD_159_Presentations
+[2026-02-24 06:00:57] Converting: M6K2_Parent_Pages.docx
+[2026-02-24 06:00:57]   Found 8 questions
+[2026-02-24 06:00:57]   Saved: M6K2_Parent_Pages_qti.zip
+[2026-02-24 06:00:57]   Removed source: M6K2_Parent_Pages.docx
+[2026-02-24 06:00:57] Conversion complete: 1 file(s) processed
+[2026-02-24 06:00:57] Opening output folder...
